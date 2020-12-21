@@ -1,4 +1,4 @@
-创建自己的dex，并添加流动性。
+创建自己的dex，并添加流动性，并swap
 
 # Ropsten测试网
 我的地址：0xC8b7a5561e29E7Cf36ed970cc73D9E37da3EB823
@@ -43,7 +43,8 @@ swap dai for eth TX:https://ropsten.etherscan.io/tx/0x1f5884993976ba660349c04465
 nodejs代码：https://github.com/OK0X/uniswap-q1
 
 
-## truffle test：
+## 其它相关内容
+with truffle test：
 
 https://github.com/OK0X/uniswapv2-router2
 
