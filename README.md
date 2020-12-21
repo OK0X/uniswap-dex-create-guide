@@ -36,6 +36,10 @@ https://ropsten.etherscan.io/tx/0x2d5e73a53bf9255e8f57e0f38cff0fa8328e873a440cd4
 
 ## 6.swap ETH/DAI
 
+swap eth for dai TX:https://ropsten.etherscan.io/tx/0x9e68f13e4cc2d8913a0b7804c0d839863338c44c2a33d7e2a34f94c7e6521ebf
+swap dai for eth TX:https://ropsten.etherscan.io/tx/0x1f5884993976ba660349c0446575c63c6d8602cc0438236bd3018b0e621d0eaa
+
+nodejs代码：https://github.com/OK0X/uniswap-q1
 
 
 ## truffle test：
