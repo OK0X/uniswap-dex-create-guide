@@ -18,7 +18,7 @@ pair: 0xC556aDEf218Fa049adf41CE08F16Dd9b7408Be65
 ## 4.部署UniswapV2Router02
 router02地址：0x38811859AF5cd7f80340F4e4A4a75b41C5376Cd5
 
-记得https://remix.ethereum.org/#optimize=true设置位false，否则router合约会超限
+若用https://remix.ethereum.org/  optimize需为true，否则router合约会超限
 
 注意：
 - pairFor方法里面的init code hash 更改成正确的值。
@@ -37,6 +37,7 @@ https://ropsten.etherscan.io/tx/0x2d5e73a53bf9255e8f57e0f38cff0fa8328e873a440cd4
 ## 6.swap ETH/DAI
 
 swap eth for dai TX:https://ropsten.etherscan.io/tx/0x9e68f13e4cc2d8913a0b7804c0d839863338c44c2a33d7e2a34f94c7e6521ebf
+
 swap dai for eth TX:https://ropsten.etherscan.io/tx/0x1f5884993976ba660349c0446575c63c6d8602cc0438236bd3018b0e621d0eaa
 
 nodejs代码：https://github.com/OK0X/uniswap-q1
